@@ -25,6 +25,7 @@ This repository documents my **daily and weekly progress** as I learn software d
 
 ## 📅 Daily Logs
 - 📌 [Day 1 — The Journey Begins 🚀](./DAY_1.md)
+- 📌 [Day 2 — Japanese and Software Development Practice 🚀](./DAY_2.md)
 
 (More days will be added here as the journey continues.)
 
