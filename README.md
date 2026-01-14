@@ -29,6 +29,7 @@ This repository documents my **daily and weekly progress** as I learn software d
 - 📌 [Day 3 — Japanese and Software Development Practice 🚀](./DAY_3.md)
 - 📌 [Day 4 — Japanese and Software Development Practice 🚀](./DAY_4.md)
 - 📌 [Day 5 — Japanese and Software Development Practice 🚀](./DAY_5.md)
+- 📌 [Day 6 — Japanese and Software Development Practice 🚀](./DAY_6.md)
 
 (More days will be added here as the journey continues.)
 
