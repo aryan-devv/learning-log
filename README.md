@@ -62,6 +62,7 @@ Every **7 days**, I publish a **weekly summary** covering:
 
 ### ✅ Available Weeks
 - 📘 **Week 1** → [`WEEK_1.md`](./WEEK_1.md)
+- 📘 **Week 2** → [`WEEK_2.md`](./WEEK_2.md)
 
 ---
 
